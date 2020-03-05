@@ -1,7 +1,7 @@
 # French-Expression
 
 
-To learn anything, I use an application nammed Anki. This application is based on two element which help you to memorize anything : Spaced repetition and Flash Card.
+To learn anything, I use an application nammed Anki. This application is based on two elements which help you to memorize anything : Spaced repetition and Flash Card.
 
 A flash card is a "Card" on which you have a question on one size and the answer on the other size. The concept is pretty basic, but using it push you to revise in a active manner which help you to memorize faster. Moreover, ask question about a topic is one of the best way to achor deeper your knowledge into your mind.
 
